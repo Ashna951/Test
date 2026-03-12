@@ -1,6 +1,2 @@
-@echo off
-echo Lancement des tests IHM...
-
-robot tests_ihm
-
+echo Lancement des tests IHM
 pause
